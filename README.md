@@ -1,7 +1,7 @@
 
 
 <!--
-**00010989/00010989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sergey_Goriev/Sergey_Goriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
